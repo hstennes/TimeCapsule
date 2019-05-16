@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "905450410948",
+    "firebase_url": "https://lettertofuture-6493b.firebaseio.com",
+    "project_id": "lettertofuture-6493b",
+    "storage_bucket": "lettertofuture-6493b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905450410948:android:900446e258f53495",
+        "android_client_info": {
+          "package_name": "com.example.timecapsule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905450410948-h13r1q5r9grqoc72htc01udh3nr89tsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timecapsule",
+            "certificate_hash": "4dde95d6e843436dc6788121baaa2914757c98ed"
+          }
+        },
+        {
+          "client_id": "905450410948-4qv0r40l3p66ugv9u8p7tqt376csqru1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrrEvWvWGXZgSOuuxfyjiSB0jVIKwpYBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905450410948-4qv0r40l3p66ugv9u8p7tqt376csqru1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

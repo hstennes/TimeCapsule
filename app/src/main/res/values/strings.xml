@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TimeCapsule</string>
+    <string name="button_start">Send a message</string>
+    <string name="button_next">Next</string>
+    <string name="button_add_image">Add image</string>
+    <string name="button_remove_image">Remove image</string>
+    <string name="button_send">Send</string>
+    <string name="text_welcome">Time Capsule lets you schedule a text message to be delivered to you or anyone else ay any point in the future. What will you send?</string>
+    <string name="text_phone">Phone</string>
+    <string name="text_time">Select time</string>
+    <string name="text_date">Select date</string>
+    <string name="text_timezone">Select timezone</string>
+    <string name="text_send">Message sent</string>
+    <string name="text_ok">OK</string>
+    <string name="message_directions">Write your message</string>
+    <string name="extra_message">message</string>
+    <string name="extra_image">image</string>
+    <string name="toolbar_main">Time Capsule</string>
+    <string name="toolbar_message">Create message</string>
+    <string name="toolbar_send">Send message</string>
+    <string name="toolbar_done">Done</string>
+    <string name="toast_no_message">Please enter a message</string>
+    <string name="toast_invalid_time">The selected time is in the past</string>
+    <string name="toast_no_phone">Please enter a phone number</string>
+    <string name="hint_phone">Textable number</string>
+    <string name="hint_message">Hello future</string>
+    <string name="description_user_image">Your image</string>
+</resources>
